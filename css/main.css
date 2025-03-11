@@ -1,5 +1,6 @@
 @import url(_reset.css);
 @import url('https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@700&family=Inter:wght@600;700&display=swap');
+@import url('link href="https://fonts.googleapis.com/css2?family=Lilita+One&display=swap" rel="stylesheet"'
 
 .body {
     color: #FFFFFF;
@@ -45,7 +46,7 @@
 }
 
 .page-title {
-    font-family: 'Chakra Petch', sans-serif;
+    font-family: "Lilita One", sans-serif;
     font-weight: 700;
     font-size: 5rem;
 
